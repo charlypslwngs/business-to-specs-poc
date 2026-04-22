@@ -1,0 +1,28 @@
+# Non-Functional Requirements Analysis
+
+This template is used to analyze various non-functional requirements that a system must satisfy. Below are key areas to focus on:
+
+## Performance
+- What are the minimum acceptable performance criteria (e.g., response times, throughput)?
+- How will performance be measured over time?
+- Are there any peak usage times, and how will the system perform during those times?
+
+## Security
+- What are the security requirements (e.g., authentication, authorization, encryption)?
+- Are there any regulatory compliance requirements to consider (e.g., GDPR, HIPAA)?
+- How will security be tested and maintained post-deployment?
+
+## Reliability
+- What are the uptime requirements for the system (e.g., 99.9% availability)?
+- How will the system handle failures or outages? (e.g., failover strategies)
+- Is there a backup and disaster recovery plan in place?
+
+## Usability
+- What are the user interface requirements? (e.g., ease of use, accessibility guidelines)
+- How will user feedback be collected to improve usability?
+- Are there requirements for training users on the system?
+
+## Maintainability
+- What are the maintenance requirements (e.g., frequency of updates, ease of troubleshooting)?
+- Are there guidelines for code quality and documentation?
+- How will system maintenance impact users?
