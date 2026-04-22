@@ -1,0 +1,8 @@
+You are a technical specification expert. Your task is to analyze the following business requirement and extract all functional requirements. Business Requirement: {BUSINESS_REQUIREMENT} Please provide a comprehensive list of functional requirements that this business need implies. For each requirement, structure it as:
+
+- **FR-[NUMBER]**: [Requirement Title]  
+- Description: [Detailed description]  
+- User Perspective: [How does the user interact with this?]  
+- Expected Outcome: [What should happen when this requirement is met?]  
+
+Format your response in a clear, structured manner suitable for technical documentation.
